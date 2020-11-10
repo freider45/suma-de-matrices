@@ -1,1 +1,15 @@
-git status (Este comando sirve para ver el estado en el que se encuentran tus archivos)
+* git status (Este comando sirve para ver el estado en el que se encuentran tus archivos,
+si el archivo aparece en rojo es porque no esta agregado al carrito, pero si esta en verde 
+quiere decir que el archivo esta dentro del carrito y preparado para subirse a la plataforma)
+
+* git add . (Es para agregar todos los archivos existentes que esten en rojo al carrito)
+
+* git add nombre_del_archivo (Con este comando se agrega el archivo que se esta nombrando)
+
+* git commit -m "nombre_de_lo_que_se_va_a_subir" (Se le da este comando para darle un nombre 
+a lo que se va a subir )
+
+* git push origin nombre_rama (Este comando me permite descargar un carrito en la plataforma 
+segun su rama)
+
+* git branch (Este comando me permite ver en que rama estoy plantado)

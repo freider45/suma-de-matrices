@@ -1,0 +1,1 @@
+git status (Este comando sirve para ver el estado en el que se encuentran tus archivos)
